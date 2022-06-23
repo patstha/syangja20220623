@@ -3,6 +3,6 @@ import './style.css'
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
-  <h1>Hello Vite!</h1>
-  <a href="https://vitejs.dev/guide/features.html" target="_blank">Documentation</a>
+  <h1>Hello Syangja!</h1>
+  <img src="assets/biruwa.jpeg" style="max-width: 100%;max-height: 100%;" alt="biruwa, syangja" />
 `
